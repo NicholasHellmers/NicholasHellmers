@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParaguayanViking
-- 👀 I’m interested in solving problems.
-- 🌱 I’m currently learning NextJs.
+- 👀 I’m interested in solving problems using software.
+- 🌱 I’m currently learning networking with Go.
 - 💞️ I’m looking to collaborate on everything that I find cool.
 - 📫 How to reach me: - email: nihe1661@colorado.edu
 
