@@ -9,10 +9,10 @@
 # 12 months, 12 projects:
 - [x] Paraguayan supermarket product API. (January)
 - [ ] Connect with your Canvas peers on LinkedIn. (February)
-- [ ] CLI app for modpack loading and off-loading. (March)
-- [ ] Web app for scheduling activities. (April)
-- [ ] TBD. (May)
-- [ ] TBD. (June)
+- [ ] Face tracking ML app (March)
+- [ ] Computer vision app for sketching out property perimeter (April)
+- [ ] Web app for scheduling activities. (May)
+- [ ] CLI app for modpack loading and off-loading. (June)
 
 ...
 
