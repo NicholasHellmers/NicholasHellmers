@@ -8,7 +8,7 @@
 
 # 12 months, 12 projects:
 - [x] Paraguayan supermarket product API. (January)
-- [ ] Connect with your Canvas peers on LinkedIn. (February)
+- [x] Connect with your Canvas peers on LinkedIn. (February)
 - [ ] Face tracking ML app (March)
 - [ ] Computer vision app for sketching out property perimeter (April)
 - [ ] Web app for scheduling activities. (May)
