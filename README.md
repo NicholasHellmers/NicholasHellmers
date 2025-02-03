@@ -6,8 +6,8 @@
 - Personal website: [www.nikihellmers.com](https://www.nikihellmers.com)
 
 # 12 months, 12 projects:
-- [ ] Open source Paraguayan e-commerce pipeline. (January)
-- [ ] Rent collector web application. (February)
+- [x] Open source Paraguayan e-commerce pipeline. (January)
+- [ ] Rewrite Hermes. (February)
 
 ...
 
