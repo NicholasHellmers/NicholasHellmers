@@ -7,7 +7,8 @@
 
 # 12 months, 12 projects:
 - [x] Open source Paraguayan e-commerce pipeline. (January)
-- [ ] Rewrite Hermes. (February)
+- [ ] Pokémon team builder. (February)
+- [ ] Rewrite Hermes. (March)
 
 ...
 
