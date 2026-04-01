@@ -4,16 +4,6 @@
 - 💞️ I’m looking to collaborate on everything that I find cool.
 - 📫 How to reach me: - email: nihe1661@colorado.edu, [LinkedIn Profile](https://www.linkedin.com/in/nicholas-hellmers/)
 - Personal website: [www.nikihellmers.com](https://www.nikihellmers.com)
-
-# 12 months, 12 projects:
-- [x] Open source Paraguayan e-commerce pipeline. (January)
-- [ ] Pokémon team builder. (February)
-- [ ] Rewrite Hermes. (March)
-
-...
-
-- [ ] TBD. (Rest of Months)
-
 <!---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicholashellmers&count_private=true&show_icons=true&include_all_commits=true)" alt="Sublime's custom image"/>
